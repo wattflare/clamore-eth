@@ -1,0 +1,94 @@
+18:50:37:144	4c8da740	args: -epool stratum+tcp://music.gpu.network:8008 -ewal 0x0aedeb18ed2170318b07250bf5e525dfa19104d1 -epsw x 
+18:50:37:144	4c8da740	
+18:50:37:144	4c8da740	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+18:50:37:144	4c8da740	บ      Claymore's Dual ETH + DCR/SC/LBC/PASC GPU Miner v9.7      บ
+18:50:37:144	4c8da740	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+18:50:37:144	4c8da740	
+18:50:37:344	4c8da740	ETH: 1 pool is specified
+18:50:37:344	4c8da740	Main Ethereum pool is music.gpu.network:8008
+18:50:37:345	4c8da740	DCR: 0 pool is specified
+18:50:37:408	4c8da740	OpenCL platform: AMD Accelerated Parallel Processing
+18:50:37:408	4c8da740	OpenCL initializing...
+
+18:50:37:408	4c8da740	AMD Cards available: 6 
+18:50:37:408	4c8da740	CUs 14 is wrong, use 36
+18:50:37:408	4c8da740	GPU #0: Ellesmere, 4058 MB available, 14 compute units
+18:50:37:408	4c8da740	GPU #0 recognized as Radeon RX 480/580
+18:50:37:408	4c8da740	CUs 14 is wrong, use 36
+18:50:37:408	4c8da740	GPU #1: Ellesmere, 4068 MB available, 14 compute units
+18:50:37:408	4c8da740	GPU #1 recognized as Radeon RX 480/580
+18:50:37:408	4c8da740	CUs 14 is wrong, use 36
+18:50:37:408	4c8da740	GPU #2: Ellesmere, 4068 MB available, 14 compute units
+18:50:37:408	4c8da740	GPU #2 recognized as Radeon RX 480/580
+18:50:37:408	4c8da740	CUs 14 is wrong, use 36
+18:50:37:408	4c8da740	GPU #3: Ellesmere, 4068 MB available, 14 compute units
+18:50:37:408	4c8da740	GPU #3 recognized as Radeon RX 480/580
+18:50:37:408	4c8da740	CUs 14 is wrong, use 36
+18:50:37:408	4c8da740	GPU #4: Ellesmere, 4068 MB available, 14 compute units
+18:50:37:408	4c8da740	GPU #4 recognized as Radeon RX 480/580
+18:50:37:408	4c8da740	CUs 14 is wrong, use 36
+18:50:37:408	4c8da740	GPU #5: Ellesmere, 4068 MB available, 14 compute units
+18:50:37:408	4c8da740	GPU #5 recognized as Radeon RX 480/580
+18:50:37:408	4c8da740	POOL/SOLO version
+18:50:37:408	4c8da740	b370 
+18:50:37:408	4c8da740	Platform: Linux
+18:50:37:543	4c8da740	start building OpenCL program for GPU 0...
+18:50:37:632	4c8da740	done
+18:50:37:833	4c8da740	start building OpenCL program for GPU 1...
+18:50:37:932	4c8da740	done
+18:50:38:134	4c8da740	start building OpenCL program for GPU 2...
+18:50:38:221	4c8da740	done
+18:50:38:422	4c8da740	start building OpenCL program for GPU 3...
+18:50:38:521	4c8da740	done
+18:50:38:724	4c8da740	start building OpenCL program for GPU 4...
+18:50:38:837	4c8da740	done
+18:50:39:038	4c8da740	start building OpenCL program for GPU 5...
+18:50:39:126	4c8da740	done
+18:50:39:334	4c8da740	GPU #0: algorithm ASM
+18:50:39:344	4c8da740	GPU #1: algorithm ASM
+18:50:39:354	4c8da740	GPU #2: algorithm ASM
+18:50:39:362	4c8da740	GPU #3: algorithm ASM
+18:50:39:369	4c8da740	GPU #4: algorithm ASM
+18:50:39:376	4c8da740	GPU #5: algorithm ASM
+18:50:39:382	4c8da740	cudaGetDeviceCount failed (35, CUDA driver version is insufficient for CUDA runtime version), probably no CUDA devices
+18:50:39:382	4c8da740	No NVIDIA CUDA GPUs detected.
+18:50:39:382	4c8da740	Total cards: 6 
+18:50:42:583	4c8da740	AMD ADL library not found.
+18:50:42:588	4c8da740	amdgpu cnt: 6
+18:50:42:588	4c8da740	No NVIDIA cards in the list, NVML library will not be used.
+18:50:42:692	4c8da740	No pool specified for Decred! Ethereum-only mining mode is enabled
+18:50:42:692	4c8da740	ETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+18:50:42:692	4c8da740	ETH: eth-proxy stratum mode
+18:50:42:692	4c8da740	Watchdog enabled
+18:50:42:692	4c8da740	Remote management (READ-ONLY MODE) is enabled on port 3333
+18:50:42:692	4c8da740	
+18:50:42:833	1c7f8700	ETH: Stratum - connecting to 'music.gpu.network' <165.227.12.162> port 8008
+18:51:07:383	45a62700	GPU0 t=49C fan=31%, GPU1 t=50C fan=28%, GPU2 t=46C fan=41%, GPU3 t=49C fan=43%, GPU4 t=48C fan=42%, GPU5 t=47C fan=28%
+18:51:07:383	45a62700	em hbt: 24791, fm hbt: 66, 
+18:51:07:383	45a62700	watchdog - thread 0 (gpu0), hb time 97
+18:51:07:383	45a62700	watchdog - thread 1 (gpu0), hb time 97
+18:51:07:383	45a62700	watchdog - thread 2 (gpu1), hb time 97
+18:51:07:383	45a62700	watchdog - thread 3 (gpu1), hb time 97
+18:51:07:383	45a62700	watchdog - thread 4 (gpu2), hb time 98
+18:51:07:383	45a62700	watchdog - thread 5 (gpu2), hb time 98
+18:51:07:383	45a62700	watchdog - thread 6 (gpu3), hb time 98
+18:51:07:383	45a62700	watchdog - thread 7 (gpu3), hb time 98
+18:51:07:383	45a62700	watchdog - thread 8 (gpu4), hb time 98
+18:51:07:383	45a62700	watchdog - thread 9 (gpu4), hb time 98
+18:51:07:383	45a62700	watchdog - thread 10 (gpu5), hb time 98
+18:51:07:383	45a62700	watchdog - thread 11 (gpu5), hb time 98
+18:51:37:416	45a62700	GPU0 t=46C fan=26%, GPU1 t=46C fan=23%, GPU2 t=43C fan=36%, GPU3 t=46C fan=38%, GPU4 t=45C fan=37%, GPU5 t=44C fan=24%
+18:51:37:416	45a62700	em hbt: 54824, fm hbt: 70, 
+18:51:37:416	45a62700	watchdog - thread 0 (gpu0), hb time 71
+18:51:37:416	45a62700	watchdog - thread 1 (gpu0), hb time 71
+18:51:37:416	45a62700	watchdog - thread 2 (gpu1), hb time 71
+18:51:37:416	45a62700	watchdog - thread 3 (gpu1), hb time 71
+18:51:37:416	45a62700	watchdog - thread 4 (gpu2), hb time 71
+18:51:37:416	45a62700	watchdog - thread 5 (gpu2), hb time 71
+18:51:37:416	45a62700	watchdog - thread 6 (gpu3), hb time 71
+18:51:37:416	45a62700	watchdog - thread 7 (gpu3), hb time 71
+18:51:37:416	45a62700	watchdog - thread 8 (gpu4), hb time 71
+18:51:37:416	45a62700	watchdog - thread 9 (gpu4), hb time 71
+18:51:37:416	45a62700	watchdog - thread 10 (gpu5), hb time 71
+18:51:37:416	45a62700	watchdog - thread 11 (gpu5), hb time 71
+18:51:43:138	4c8da740	Quit signal received...
